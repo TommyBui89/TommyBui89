@@ -16,9 +16,8 @@
 - Any Open Source Project that matches my interests and skills
 
 📫 How to reach me ...
-- Email: [tommybui89@email.com](mailto:tommybui89@email.com)
-- LinkedIn: [Tommy Bui](https://www.linkedin.com/in/tommybui89/)
-- Twitter: [@TommyBui89](https://twitter.com/TommyBui89)
+- Email: [tommyvo007@email.com](mailto:tommyvo007@email.com)
+- LinkedIn: [Tommy Bui](https://www.linkedin.com/in/tommy-bui-0b242124b/)
 
 <!---
 TommyBui89/TommyBui89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

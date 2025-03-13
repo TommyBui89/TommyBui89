@@ -1,4 +1,4 @@
-👋 Hi, I’m @TommyBui89
+👋 Hi, I’m Tommy Bui
 
 👀 I’m interested in ...
 - Web Development

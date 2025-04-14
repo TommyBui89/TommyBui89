@@ -1,25 +1,41 @@
-👋 Hi, I’m Tommy Bui
+# Hi, I’m Tommy Bui
 
-👀 I’m interested in ...
-- Web Development
-- Open Source Projects
-- Flutter
+## 👨‍💻 About Me  
+I'm a software developer based in Melbourne, Australia with a strong interest in building clean, user-focused web applications. I enjoy solving real-world problems through code and learning new technologies that help me grow both technically and professionally.
 
-🌱 I’m currently learning ...
-- React.js
-- Node.js
-- Cloud Technologies (AWS, Google Cloud)
+---
 
-💞️ I’m looking to collaborate on ...
-- Web Development Projects
-- Machine Learning Initiatives
-- Any Open Source Project that matches my interests and skills
+## 🔍 Areas of Interest  
+- Full-Stack Web Development  
+- Open Source Projects  
+- Cloud Technologies  
+- Flutter (Mobile Development)  
+- .NET / .NET Core / C#  
+- AI & Machine Learning (beginner interest)
 
-📫 How to reach me ...
-- Email: [tommyvo007@email.com](mailto:tommyvo007@email.com)
-- LinkedIn: [Tommy Bui](https://www.linkedin.com/in/tommy-bui-0b242124b/)
+---
 
-<!---
-TommyBui89/TommyBui89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 Currently Learning  
+- React.js  
+- Node.js  
+- AWS & Google Cloud  
+- Scalable system design  
+- Backend API development with .NET Core and C#
+
+---
+
+## 🤝 Open to Collaborating On  
+- Web Development Projects  
+- .NET / C# based applications  
+- Open Source Contributions  
+- Beginner-friendly AI/ML initiatives  
+
+---
+
+## 📫 Get in Touch  
+- **Email:** [tommyvo007@email.com](mailto:tommyvo007@email.com)  
+- **LinkedIn:** [Tommy Bui](https://www.linkedin.com/in/tommy-bui-0b242124b/)  
+
+---
+
+Thanks for stopping by!
